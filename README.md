@@ -1,4 +1,3 @@
-# NNIv2-Config-Syncronizer
 Objective : 
 
 Created snippet will show the configuration difference between NNI Routers for ipv4 Routing , NAT Changes & Prefix List Changes.
