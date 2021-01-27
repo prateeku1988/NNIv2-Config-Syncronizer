@@ -1,0 +1,7 @@
+Important Note : 
+
+Ideally it's recommended to clone the source code from GITLAB only. This way we can maintain the version controls and central control of the script. 
+So, please fix the access issues of GITLAB. Below is just a kind of another option to launch the script from shared path use it in case of emergency only.
+
+
+python3 /home/pupad/Cisco_IOSXE_NNIv2_ConfigSyncer.py
